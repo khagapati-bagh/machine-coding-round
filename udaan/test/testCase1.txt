@@ -1,0 +1,7 @@
+add-user user1
+add-user user2
+add-deal deal1 5 100 4
+add-deal deal2 5 110 3
+claim-deal user1 <dealId>
+update-deal <dealId> 10 112 3
+end-deal <dealId>
